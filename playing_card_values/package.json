@@ -1,0 +1,13 @@
+{
+  "name": "playing_card_values",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Mitchel Hunter",
+  "type": "module",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "test",
+    "start": "node challenge.js"
+  }
+}
