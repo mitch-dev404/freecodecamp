@@ -1,0 +1,13 @@
+{
+  "name": "flattened",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Mitchel Hunter",
+  "type": "module",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node challenge.js"
+  }
+}
