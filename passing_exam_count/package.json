@@ -1,0 +1,13 @@
+{
+  "name": "passing_exam_count",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Mitchel Hunter",
+  "type": "module",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "nodemon test.js",
+    "start": "node test.js"
+  }
+}
